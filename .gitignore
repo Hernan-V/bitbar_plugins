@@ -1,5 +1,9 @@
 #Ignores all types
 *.*
+backup_values.txt
+token.pickle
+credentials.json
+
 #Except the next list
 !*.abap
 !*.abp
