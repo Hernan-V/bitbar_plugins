@@ -2,3 +2,4 @@
 backup_values.txt
 token.pickle
 credentials.json
+.DS_Store
