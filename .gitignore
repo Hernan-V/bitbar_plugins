@@ -1,5 +1,4 @@
 #Ignores all types
-*.*
 backup_values.txt
 token.pickle
 credentials.json
